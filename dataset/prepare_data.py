@@ -48,7 +48,7 @@ parser.add_argument(
 parser.add_argument(
     '-input_fn',
     dest='input_fn',
-    default='realnews.jsonl',
+    default='../../ai_rpa_component/data/text_keywords/news2016zh_train.json',
     type=str,
     help='Base filename to use. THIS MUST BE A LOCAL FILE.'
 )

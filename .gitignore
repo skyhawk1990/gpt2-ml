@@ -1,0 +1,15 @@
+*.pkl
+*.npy
+*.log
+*.bin
+*.gz
+temp
+model
+models
+model_files
+data
+logs
+.DS_Store
+.ipynb_checkpoints
+.idea
+__pycache__
